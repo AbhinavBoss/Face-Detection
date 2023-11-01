@@ -8,7 +8,7 @@ This project demonstrates face detection using OpenCV and Haar Cascade Classifie
 
 ## Features
 
-- Detects faces in images.
+- Detects faces in images. 
 - Draws green rectangles around detected faces.
 - Simple and easy-to-understand Python code.
 
