@@ -4,7 +4,7 @@
 
 This project demonstrates face detection using OpenCV and Haar Cascade Classifiers. It's a simple yet powerful example of how computer vision can be applied to recognize and highlight faces in images.
 
-![Face Detection]([demo.png](https://github.com/AbhinavBoss/Face-Detection/blob/main/openCV_pr_03.png))
+![Face Detection]([https://github.com/AbhinavBoss/Face-Detection/blob/main/openCV_pr_03.png](https://github.com/AbhinavBoss/Face-Detection/blob/main/openCV_pr_03.png))
 
 ## Features
 
